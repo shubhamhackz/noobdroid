@@ -1,11 +1,22 @@
 # noobdroid
-noobdroid.com is a tech blog that aims to help beginners learn Android Development faster. This will be an open-source project but we will follow a certain structure while taking contributions.
+Do check our website - noobdroid.com in order to follow up on our progress so far.
 
-Rule #1:
+noobdroid.com is a tech blog that aims to help beginners learn Android Development faster. This will be an open-source project but we will follow a certain structure while taking contributions. Please check out the following set of points to keep in mind while making your contribution.
+
+Point #1:
 We will use version control (GitHub) as our workflow model. Any changes to be made should be made on a separate branch.
 
-Rule #2:
-Branch should be named 'Feature #XX - ViewGroup Tutorial (by member #XX)'
+Point #2:
+Branch should be named (e.g.)'Feature: ViewGroup Tutorial (by Member #05)'
 
-Rule #3:
-As soon as you make a contribution, drop me an email @ ashwanth1109@gmail.com or 
+Point #3:
+As soon as you make a contribution, drop me an email @ashwanth1109@gmail.com or a message on slack @Ashwanth so that I can revert back immediately.
+
+Current Contributing Members (in chronological order):
+Member #01 - Ashwanth A R
+Member #02 - Manu Sharma
+Member #03 - Shubham Soni
+
+Project Mentors:
+Mentor #01 - @akshit.udacity
+Mentor #02 - @iip.udacity
