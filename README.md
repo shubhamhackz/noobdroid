@@ -5,6 +5,9 @@ noobdroid.com is a tech blog that aims to help beginners learn Android Developme
 
 The website is currently being run using Wordpress Themes (OceanWP theme) but ideally we would like to change to HTML, CSS and JS.
 
+How to contribute?
+This is a project that keeps in mind the varying interests and expertise level of the different members of the community. But one common goal for the community is learning Android. So, every single member, no matter the experience or level, can contribute in making tutorials for the different topics in Android.
+
 Point #1:
 We will use version control (GitHub) as our workflow model. Any changes to be made should be made on a separate branch.
 
