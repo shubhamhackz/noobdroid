@@ -9,6 +9,8 @@ The website is currently being run using Wordpress Themes (OceanWP theme) but id
 
 How to contribute?
 This is a project that keeps in mind the varying interests and expertise level of the different members of the community. But one common goal for the community is learning Android. So, every single member, no matter the experience or level, can contribute in making tutorials for the different topics in Android.
+To become a member - Please fill out the following form and kindly read on.
+https://goo.gl/forms/2JMzmfhWDjJvv3Wt1
 
 Point #1:
 We will use version control (GitHub) as our workflow model. Any changes to be made should be made on a separate branch.
