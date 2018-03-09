@@ -4,8 +4,9 @@ Check the website first if you haven't.
 The website is currently being run using Wordpress Themes (screenr theme with several plugins) but ideally we would like to change to HTML, CSS and JS (a template is already in the pipeline for this).
 
 noobdroid.com is a tech blog that aims to help beginners learn Android Development faster.
-The website is for and by the students of the Google-Udacity Android Scholarship Program. The website will aim to provide a way for both beginner & advanced coders to be coding in Android in short time spans (through pseudocode methods using custom boilerplate code).
-This will be an open-source project but we will follow a certain structure while taking contributions. 
+The website is for and by the students of the Google-Udacity Android Scholarship Program. The website will provide a tool for both beginner & advanced coders to code faster and remember syntax better when working in the Android environment (by using custom boilerplate code called cheat-codes to pseudocode).
+
+This will be a FOSS (Free Open Source Software) project but we will follow a certain structure while taking contributions. 
 
 Who can contribute?
 This is a project that keeps in mind the varying interests and expertise level of the different members of the community. But one common goal for the community is learning Android. So, every single member, no matter the experience or level, can contribute in making tutorials for the different topics in Android.
