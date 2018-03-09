@@ -1,7 +1,7 @@
 # noobdroid.com
 Check the website first if you haven't.
 
-The website is currently being run using Wordpress Themes (screenr theme with several plugins) but ideally we would like to change to HTML, CSS and JS (a template is already in the pipeline for this).
+The website is currently being run using Wordpress Themes (screenr theme with several plugins) but ideally we would like to shift to HTML, CSS and JS (a template is already in the pipeline for this).
 
 noobdroid.com is a tech blog that aims to help beginners learn Android Development faster.
 The website is for and by the students of the Google-Udacity Android Scholarship Program. The website will provide a tool for both beginner & advanced coders to code faster and remember syntax better when working in the Android environment (by using custom boilerplate code called cheat-codes to pseudocode).
