@@ -9,9 +9,11 @@ The website is for and by the students of the Google-Udacity Android Scholarship
 This will be a FOSS (Free Open Source Software) project but we will follow a certain structure while taking contributions. 
 
 Who can contribute?
+
 This is a project that keeps in mind the varying interests and expertise level of the different members of the community. But one common goal for the community is learning Android. So, every single member, no matter the experience or level, can contribute in making tutorials for the different topics in Android.
 
 How to contribute?
+
 We will have 6 groups of contributors -
 
 1) DESIGN - you will work on the ui/ux portion of the website. Collaborate with others to find a common design solution that fits everyone's needs.
