@@ -34,11 +34,11 @@ ashwanth1109@gmail.com (or) ashwanth.a.r@duke.edu (or) @Ashwanth (slack handle)
 
 Once you've decided which groups you'd like to work with, complete the following steps to become a contributor and one of us will reach out to you to follow up:
 
-STEP 1 - 
+STEP 1 - GO TO THE "List of Contributors" FILE AND EDIT IT ON A SEPARATE BRANCH
 
-STEP 2 - 
+STEP 2 - ADD YOUR FULL NAME, CHOICE OF CONTRIBUTOR ROLES AND YOUR UNIQUE 2 DIGIT MEMBER ID [00 - 99]. (Note: Pick one that is not already taken)
 
-STEP 3 - 
+STEP 3 - CREATE A PULL REQUEST
 
 Structure for taking contributions - 
 
@@ -46,5 +46,5 @@ Point #1:
 We will use version control (GitHub) as our workflow model. Any changes to be made should be made on a separate branch. Branch should be named (e.g.)'Feature: ViewGroup Tutorial (by Member #05)'
 
 Point #2:
-If you only have a few minutes per day to contribute, we suggest working in the content group. Since all of us are taking the courses at Udacity, making tutorials for a single concept would not be too difficult.
+If you only have a few minutes per day to contribute, we suggest working in the content group. Since all of us are taking the courses at Udacity, and making tutorials for a concepts you're learning is something you can do in a few minutes.
 
