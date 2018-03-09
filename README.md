@@ -24,7 +24,7 @@ We will have 6 groups of contributors -
 
 5) WEBSITE - you will work on creating the website using HTML, CSS & JS. This role might require you to be familiar with these languages.
 
-6)ADMIN - you will work with other members in your group to coordinate with the different groups and ensure that things are progressing. If you have a strong tendancy for management, then this role might be apt for you.
+6) ADMIN - you will work with other members in your group to coordinate with the different groups and ensure that things are progressing. If you have a strong tendancy for management, then this role might be apt for you.
 
 Note that if you're interested in learning something, lets say Wordpress and you have no experience, you can still join the Wordpress group to learn things on the fly. If you're confused about any of these roles and require more clarity, give me a shout @ 
 
