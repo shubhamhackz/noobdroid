@@ -1,30 +1,30 @@
 # noobdroid.com
-Check the website first if you haven't.
+Check the website first.
+Website is currently running on Wordpress but in the future we will shift to a HTML, CSS and JS.
 
-The website is currently being run using Wordpress Themes (screenr theme with several plugins) but ideally we would like to shift to HTML, CSS and JS (a template is already in the pipeline for this).
 
-noobdroid.com is a tech blog that aims to help beginners learn Android Development faster.
-The website is for and by the students of the Google-Udacity Android Scholarship Program. The website will provide a tool for both beginner & advanced coders to code faster and remember syntax better when working in the Android environment (by using custom boilerplate code called cheat-codes to pseudocode).
+noobdroid.com is a tech blog for beginners to help them learn Android Dev faster.
+The website will provide a tool for both beginner & advanced coders to code faster and recall syntax better when working in the Android environment (by using custom boilerplate code called cheat-codes to pseudocode).
 
-This will be a FOSS (Free Open Source Software) project but we will follow a certain structure while taking contributions. 
+This will be a FOSS (Free Open Source Software) project but we will follow a certain structure when taking contributions. 
 
-Who can contribute?
+WHO CAN CONTRIBUTE?
 
 This is a project that keeps in mind the varying interests and expertise level of the different members of the community. But one common goal for the community is learning Android. So, every single member, no matter the experience or level, can contribute in making tutorials for the different topics in Android.
 
-How to contribute?
+HOW TO CONTRIBUTE?
 
 We will have 6 groups of contributors -
 
-1) DESIGN - you will work on the ui/ux portion of the website. Collaborate with others to find a common design solution that fits everyone's needs.
+1) DESIGN - works on the ui/ux portion of the website by collaborating with others to find a common design solution to fit everyones needs.
 
-2) WORDPRESS - you will work on updating content that is provided using a WordPress dashboard. You will be using the same design template but modifying only the content.
+2) WORDPRESS - works on updating content on the WordPress dashboard using pre-made templates from DESIGN.
 
-3) CONTENT - you will work on creating content in the form of cheat-codes, conceptuals, guides & tutorials for different concepts in Android - from beginner to advanced.
+3) CONTENT - works on creating content in the form of cheat-codes, conceptuals, guides & tutorials for different concepts in Android - from beginner to advanced.
 
-4) FLUTTER - you will work on the brainstorming for the flutter section of the website. Working on this would require you to take complete responsibility to making this section a reality with others in the group.
+4) FLUTTER - works on the brainstorming of the flutter section of the website and will be completely responsible for making it a reality.
 
-5) WEBSITE - you will work on creating the website using HTML, CSS & JS. This role might require you to be familiar with these languages.
+5) WEBSITE - works on replicating the existing website using HTML, CSS & JS.
 
 6) ADMIN - you will work with other members in your group to coordinate with the different groups and ensure that things are progressing. If you have a strong tendancy for management, then this role might be apt for you.
 
@@ -46,5 +46,5 @@ Point #1:
 We will use version control (GitHub) as our workflow model. Any changes to be made should be made on a separate branch. Branch should be named (e.g.)'Feature: ViewGroup Tutorial (by Member #05)'
 
 Point #2:
-If you only have a few minutes per day to contribute, we suggest working in the content group. Since all of us are taking the courses at Udacity, making tutorials for concepts you're learning is something you can do in a few minutes.
+If you only have a few minutes per day to contribute, we suggest working in the content group. Since all of us are taking the courses at Udacity, making tutorials for concepts you're already learning is something you can do in a few minutes.
 
