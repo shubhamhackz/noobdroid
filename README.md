@@ -32,7 +32,7 @@ Note that if you're interested in learning something, lets say Wordpress and you
 
 ashwanth1109@gmail.com (or) ashwanth.a.r@duke.edu (or) @Ashwanth (slack handle)
 
-Once you've decided which groups you'd like to work with, complete the following steps:
+Once you've decided which groups you'd like to work with, complete the following steps to become a contributor and one of us will reach out to you to follow up:
 
 STEP 1 - 
 
