@@ -46,5 +46,5 @@ Point #1:
 We will use version control (GitHub) as our workflow model. Any changes to be made should be made on a separate branch. Branch should be named (e.g.)'Feature: ViewGroup Tutorial (by Member #05)'
 
 Point #2:
-If you only have a few minutes per day to contribute, we suggest working in the content group. Since all of us are taking the courses at Udacity, and making tutorials for a concepts you're learning is something you can do in a few minutes.
+If you only have a few minutes per day to contribute, we suggest working in the content group. Since all of us are taking the courses at Udacity, making tutorials for a concepts you're learning is something you can do in a few minutes.
 
