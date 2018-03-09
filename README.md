@@ -28,7 +28,7 @@ We will have 6 groups of contributors -
 
 Note that if you're interested in learning something, lets say Wordpress and you have no experience, you can still join the Wordpress group to learn things on the fly. If you're confused about any of these roles and require more clarity, give me a shout @ 
 
-ashwanth1109@gmail.com (or) ashwanth.a.r@duke.edu
+ashwanth1109@gmail.com (or) ashwanth.a.r@duke.edu (or) @Ashwanth (slack handle)
 
 Once you've decided which groups you'd like to work with, complete the following steps:
 
@@ -38,8 +38,11 @@ STEP 2 -
 
 STEP 3 - 
 
-Structure of taking contributions - 
+Structure for taking contributions - 
 
 Point #1:
 We will use version control (GitHub) as our workflow model. Any changes to be made should be made on a separate branch. Branch should be named (e.g.)'Feature: ViewGroup Tutorial (by Member #05)'
+
+Point #2:
+If you only have a few minutes per day to contribute, we suggest working in the content group. Since all of us are taking the courses at Udacity, making tutorials for a single concept would not be too difficult.
 
